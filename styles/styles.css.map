@@ -1,0 +1,17 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,QAAQ,CAAA;EACJ,cAAc,EAAE,IAAI;EACpB,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;EAClB,aAAa,EAAE,IAAI;EACnB,UAAU,EAAE,WAAW;EACvB,SAAS,EAAE,MAAM;EACjB,UAAU,EAAE,IAAI;CACnB;;AACD,AAAA,OAAO,CAAA;EACH,WAAW,EAAE,IAAI;EACjB,KAAK,EAAE,IAAI;EACX,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CACf;;AACD,AAAA,QAAQ,CAAC,EAAE,CAAA;EACP,KAAK,EAAE,KAAK;CAEf;;AACD,AAAA,QAAQ,CAAC,EAAE,CAAA;EACP,OAAO,EAAE,MAAM;EACf,YAAY,EAAE,IAAI;EAClB,WAAW,EAAE,0BAA0B;EACvC,KAAK,EAAE,OAAO;EACd,SAAS,EAAE,IAAI;EACf,cAAc,EAAE,SAAS;CAC5B;;AACD,AAAA,SAAS,AAAA,MAAM,CAAA;EACX,OAAO,EAAE,EAAE;EACX,OAAO,EAAE,KAAK;EACd,KAAK,EAAE,IAAI;CACd",
+    "sources": [
+        "styles.scss",
+        "_header.scss",
+        "_section1.scss",
+        "_sectionFooter.scss",
+        "_sectionfotitos.scss",
+        "_sectionfotos.scss",
+        "_sectionIphone.scss",
+        "_SectionPodcast.scss",
+        "_sectionultima.scss"
+    ],
+    "names": [],
+    "file": "styles.css"
+}
